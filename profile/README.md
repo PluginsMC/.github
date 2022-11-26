@@ -11,4 +11,4 @@ Don't panic, follow these instructions:
  - Step 3: Describe your problem as detailed as you can, also be sure to provide the error itself in the console (not the entire console log, but the plugin error)
  -  - Also do not forget to try reinstalling the plugin and config files, also check the server version and the supported plugin version (for example: if you use a plugin version that is only suitable for 1.12.2 on a server that has version 1.16.5 installed, then your problem will be closed
  - Step 4: Wait for the issue to be resolved and be patient and don't flood, spam or create conflict in discussions
- - Step 5: 
+ - Step 5: Thank you for reading this, I hope you follow this list
