@@ -1,1 +1,1 @@
-[img]https://i.imgur.com/Fl9b8jf.png[/img]
+![OnionPlugins Logo](https://i.imgur.com/Fl9b8jf.png)
