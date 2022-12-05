@@ -1,10 +1,10 @@
-<p align="center"><img src="https://i.imgur.com/TA39d6X.png" alt="OnionPlugins Logo" width=90px height=90px /></p>
-<p align="center"><i>OnionPlugins develop high-quality and necessary extensions for your server</i></p>
+<p align="center"><img src="https://i.imgur.com/TA39d6X.png" alt="PluginsMC Logo" width=90px height=90px /></p>
+<p align="center"><i>PluginsMC develop high-quality and necessary extensions for your server</i></p>
 
 ## About this organization
 This organization will be used to publish open source plugins
 
-## I found a bug or i receive errors from plugin made by OnionPlugins
+## I found a bug or i receive errors from plugin made by PluginsMC
 Don't panic, follow these instructions:
  - Step 1: Find the plugin repository in this organization
  - Step 2: Create issue with correct and normal name (It is possible that your problem is solved, so try to find it in closed issues and do not create duplicates of already solved bugs!
